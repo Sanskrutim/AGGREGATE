@@ -1,0 +1,249 @@
+{
+    "farms": [
+      {
+        "id": 1,
+        "nitrogen": [20,80],
+        "phosphorous":[10,40],
+        "potassium": [10,40],
+        "crop":"Wheat",
+        "video_link":"https://www.youtube.com/watch?v=fkO3EhG7v3c",
+        "Soil_Preparation":"Before planting wheat, conduct a soil test to analyze nutrient levels, pH, and organic matter content. This helps determine if any soil amendments are needed.Begin by plowing the field to a depth of about 8 to 10 inches. This helps loosen the soil and improves aeration.Follow plowing with disc harrowing to break down clods of soil and further prepare a smooth seedbed.Level the soil surface using a harrow or a land leveler to ensure uniform water distribution and seed placement.Ensure the seed is planted at the correct depth (around 1 to 2 inches) and spacing (usually 6 to 7 inches apart in rows).Depending on soil nutrient levels, a common recommendation for wheat is around 60-80 lbs of nitrogen per acre, 40-60 lbs of phosphate (P2O5) per acre, and 40-60 lbs of potash (K2O) per acre.",
+
+        "Sowing_Technique":"Timing:\nSeason: Wheat is typically sown in the fall (autumn) in cooler climates or in late winter to early spring in warmer climates, depending on the variety and local growing conditions.Soil Temperature: Ensure the soil temperature is suitable for germination, generally between 50°F to 77°F (10°C to 25°C).Use a seed drill to sow wheat seeds uniformly at the desired depth and spacing. Adjust the drill settings according to the recommended seed rate. If using broadcasting, spread the seeds evenly over the prepared seedbed and then incorporate them into the soil using a harrow or light tillage.Ensure seeds are placed at the correct depth for optimal germination. The ideal depth is typically 1 to 2 inches deep, depending on soil moisture and conditions.",
+
+        "Irrigation_Techniques":"Wheat has specific water requirements at different growth stages. Adequate moisture is critical during tillering, stem elongation, heading, and grain filling stages.Generally, wheat requires around 1 to 1.5 inches of water per week during the growing season.Monitor soil moisture levels regularly using moisture sensors or by observing soil texture and plant appearance.Irrigate when the soil moisture level reaches a certain threshold (e.g., when soil moisture drops below 50% of field capacity).Avoid irrigating during periods of high humidity to minimize the risk of fungal diseases.Water early in the day to reduce evaporation losses and ensure water availability during the critical growth stages.",
+
+        "Post_Irrigation_Management":"After irrigation, monitor the soil moisture to ensure that the wheat plants have received sufficient water. Check soil moisture levels at different depths using a soil probe or by digging small holes.Inspect the wheat field for weeds that may have germinated due to increased moisture. Control weeds using mechanical methods (e.g., hoeing) or herbicides to prevent competition for nutrients and water.Assess the nutrient status of the wheat crop post-irrigation. If necessary, apply additional fertilizers based on soil test results and crop nutrient requirements. Nitrogen top-dressing is often done at specific growth stages (e.g., tillering, stem elongation) to meet the crop's needs.Keep an eye out for signs of diseases and pests, especially in wet conditions following irrigation. Common wheat diseases include rusts, powdery mildew, and fungal leaf spots. Scout for pests like aphids and armyworms, and take appropriate measures if needed (e.g., applying fungicides or insecticides).Monitor the growth stages of the wheat crop post-irrigation. Observe for uniform growth and development of tillers, stems, and spikes.Keep track of the timing of key growth stages (e.g., heading, flowering, grain filling) to optimize management practices.",
+
+        "Timing_of_Harvest":"Wheat is ready for harvest when it reaches physiological maturity, typically indicated by a change in color from green to golden yellow and the drying down of the crop.Check the wheat kernels for firmness and a hard, glassy appearance.",
+
+        "Post_Harvest_Management":"If harvested wheat has moisture levels above storage standards, use grain dryers to reduce moisture content to safe levels to prevent spoilage.Store harvested wheat in clean, dry storage facilities such as grain bins or silos. Ensure proper ventilation and monitoring of grain conditions to maintain quality and prevent insect infestation.After harvesting, clear the field of remaining straw and chaff using a baler or by spreading straw for soil protection and organic matter replenishment."
+
+                           
+       
+      },
+      {
+        "id": 2,
+        "nitrogen": [50,120],
+        "phosphorous": [30,60],
+        "potassium": [30,60],
+        "crop":"Rice",
+        "video_link":"https://www.youtube.com/watch?v=ubJqECQXP7o",
+        "Soil_Preparation":"Before planting rice, the soil should be well-prepared. This involves plowing the field to a suitable depth to loosen the soil and improve aeration. After plowing, the soil should be leveled using a harrow or land leveler to ensure uniform water distribution and seed placement.",
+
+        "Sowing_Technique":"Rice is typically sown in prepared fields that are either puddled or directly seeded. Puddling involves saturating the soil with water to soften it, which helps in transplanting young rice seedlings. Direct seeding involves broadcasting or drilling rice seeds into the soil.",
+
+        "Irrigation_Techniques":"Rice requires ample water for growth, and different methods of irrigation can be used depending on the availability of water. Flood irrigation, where fields are submerged in water, is common for rice cultivation. Alternatively, drip irrigation or sprinkler systems can also be used efficiently.",
+
+        "Post_Irrigation_Management":"After irrigation, it's important to monitor soil moisture levels and control weed growth to prevent competition for nutrients. Nutrient management through fertilization should be tailored to the specific needs of rice plants at different growth stages.",
+
+        "Timing_of_Harvest":"Rice is ready for harvest when the grains have reached maturity and the fields start turning golden yellow. Harvesting should be done carefully to minimize losses and ensure good grain quality.",
+
+        "Post_Harvest_Management":" After harvesting, rice needs to be properly dried to reduce moisture content. The dried grains are then threshed to separate the rice from the straw. Proper storage facilities should be used to maintain grain quality and prevent spoilage."
+      },
+      {
+        "id": 3,
+        "nitrogen": [135,200],
+        "phosphorous": [67,112],
+        "potassium": [67,112],
+        "crop":"corn/maize",
+        "video_link":"https://www.youtube.com/watch?v=Ts--iMD4YcA",
+        "Soil_Preparation": "Before planting corn, the soil should be well-prepared. This involves plowing the field to a depth of about 6-8 inches to loosen the soil and improve aeration. After plowing, harrowing is done to break down clods and create a fine seedbed. Soil testing should be conducted to assess nutrient levels and pH, and necessary amendments like organic matter or fertilizers should be incorporated.",
+        "Sowing_Technique": "Corn is typically sown directly into the soil either by seed drilling or broadcasting. The optimal planting depth for corn seeds is around 1-2 inches, depending on soil moisture and temperature. Corn seeds should be spaced appropriately, usually in rows with inter-row spacing of about 60-75 cm.",
+        "Irrigation_Techniques": "Corn requires adequate moisture throughout its growth stages, especially during germination, tasseling, and grain filling. Irrigation can be done using methods like furrow irrigation, drip irrigation, or sprinklers, depending on water availability and soil type. Corn plants should receive around 1-1.5 inches of water per week during the growing season.",
+        "Post_Irrigation_Management": "After irrigation, it's essential to monitor soil moisture levels and control weed growth. Nutrient management is crucial for corn, and fertilizers should be applied based on soil test results and crop requirements. Top-dressing with nitrogen is often done during the vegetative growth stages to support corn's high nutrient demands.",
+        "Timing_of_Harvest": "Corn is ready for harvest when the kernels have reached physiological maturity. This is indicated by the milk line disappearing from the kernels and the husks turning dry and brown. Harvesting should ideally be done in dry weather conditions to prevent quality losses due to moisture.",
+        "Post_Harvest_Management": "After harvesting, corn should be promptly dried to reduce moisture content to safe levels for storage. Corn can be dried using natural air drying methods or mechanical dryers. Proper storage facilities like grain bins or silos should be used to maintain grain quality and prevent pest infestations."
+      },
+      {
+        "id": 4,
+        "nitrogen": [135,200],
+        "phosphorous": [67,134],
+        "potassium": [135,268],
+        "crop":"Potato",
+        "video_link":"https://www.youtube.com/watch?v=9NoJ2XCUs2k",
+        "Soil_Preparation":"Soil preparation for potatoes begins with selecting well-drained, fertile soil with a pH range of 5.0 to 6.5. Before planting, the soil should be deeply plowed to break up clods and improve soil structure. Incorporating organic matter like compost or well-rotted manure helps improve soil fertility and water retention.",
+
+        "Sowing_Technique":"Potatoes are typically grown from seed tubers rather than seeds. The seed tubers are cut into pieces containing at least one eye or sprout. Planting is done in ridges or furrows to provide adequate drainage. The spacing between tubers is crucial, usually about 30-45 cm apart in rows spaced 60-75 cm apart.",
+
+        "Irrigation_Techniques":"Potatoes require consistent moisture throughout the growing season. Irrigation should be applied evenly to keep the soil moist but not waterlogged. Depending on the climate and soil type, irrigation can be done using furrow irrigation, drip irrigation, or sprinklers. Avoid overwatering to prevent diseases like potato blight.",
+
+        "Post_Irrigation_Management":"After irrigation, it's essential to monitor the crop for weed growth and apply appropriate weed control measures. Hilling or earthing up is important for potatoes to prevent tubers from exposure to sunlight, which can cause greening and toxicity. Fertilizer application should be done based on soil tests and crop nutrient requirements.",
+
+        "Timing_of_Harvest":"Potatoes are typically ready for harvest 90 to 120 days after planting, depending on the variety and growing conditions. Harvesting is done when the plants start to die back and the skins of the tubers thicken. Carefully dig up the tubers using a fork or spade to avoid damaging them.",
+
+        "Post_Harvest_Management":"  After harvesting, allow the potatoes to cure in a cool, dark place for 1-2 weeks to toughen their skins and heal minor cuts and bruises. Store potatoes in a cool, well-ventilated area with humidity levels around 80-90% to prevent sprouting and decay. Regularly check stored potatoes for signs of spoilage and remove any damaged tubers to prevent rot from spreading."
+      },
+      {
+        "id": 5,
+        "nitrogen": [45,90],
+        "phosphorous":[45,90],
+        "potassium": [45,90],
+        "crop":"Groundnuts",
+        "video_link":"https://www.youtube.com/watch?v=Dp7AyTKi5lU",
+        "Soil_Preparation":"Groundnuts thrive in well-drained, sandy loam soil with good fertility. Begin by plowing the field to a depth of about 8 to 10 inches to loosen the soil and improve aeration. Remove any weeds and debris from the field. Incorporate organic matter like compost or well-rotted manure to enhance soil fertility. Aim for a slightly acidic to neutral pH level (pH 6.0-7.0) for optimal growth.",
+
+        "Sowing_Technique":"Groundnuts are typically sown directly in the field. The seeds are planted at a depth of 3-5 cm and spaced about 10-15 cm apart in rows spaced 30-45 cm apart. Ensure uniform seed placement to promote even germination and growth. Planting should be timed to coincide with the onset of the monsoon or during the summer season when soil temperatures are warm.",
+
+        "Irrigation_Techniques":"Groundnuts require regular and uniform irrigation throughout their growth stages, especially during flowering and pod development. Irrigate deeply but infrequently to encourage root development. Depending on the soil type and climate, use methods like furrow irrigation or drip irrigation to supply water efficiently. Avoid waterlogging, as it can lead to diseases like root rot.",
+
+        "Post_Irrigation_Management":"After irrigation, monitor the crop for weed growth and implement weed control measures to minimize competition for nutrients and water. Apply balanced fertilizers based on soil test results to meet the nutrient requirements of groundnuts. Top-dressing with nitrogen can be beneficial during flowering to promote pod development.",
+
+        "Timing_of_Harvest":"Groundnuts are ready for harvest when the plants begin to yellow and dry out. This typically occurs 100-150 days after sowing, depending on the variety and growing conditions. Use a fork or shovel to carefully dig up the plants, being cautious not to damage the pods. Allow the harvested plants to dry in the field for a few days.",
+
+        "Post_Harvest_Management":"After drying, remove the pods from the plants and separate them from the roots. Cure the pods by exposing them to sunlight for a few days to harden the shells and reduce moisture content. Store the dried groundnuts in a cool, dry place with good ventilation to prevent mold growth. Regularly inspect stored groundnuts for signs of spoilage and remove any damaged nuts."
+      },
+      {
+        "id": 6,
+        "nitrogen": [67,112],
+        "phosphorous": [34,67],
+        "potassium": [67,112],
+        "crop":"Lady-finger",
+        "video_link":"https://www.youtube.com/watch?v=VnjkqoQHSHc",
+        "Soil_Preparation":"Ladyfinger grows well in loamy, well-drained soil with good organic matter content. Begin by plowing the field to a depth of about 8 to 10 inches to loosen the soil and improve aeration. Remove any weeds and debris from the field. Incorporate well-rotted compost or farmyard manure into the soil to improve fertility. Aim for a slightly acidic to neutral pH level (pH 6.0-7.0) for optimal growth.",
+
+        "Sowing_Technique":" Ladyfinger seeds are sown directly in the field. The seeds can be soaked in water overnight to enhance germination. Sow the seeds at a depth of about 1 inch and space them 12-18 inches apart in rows spaced 2-3 feet apart. Sowing should be timed to coincide with the onset of the monsoon or during the warmer months.",
+
+        "Irrigation_Techniques":"Ladyfinger requires regular and consistent moisture throughout its growth stages. Irrigate the crop deeply but infrequently to encourage deep root development. Use methods like furrow irrigation or drip irrigation to deliver water efficiently and prevent waterlogging, which can lead to diseases.",
+
+        "Post_Irrigation_Management":"After irrigation, monitor the crop for weed growth and implement weed control measures to reduce competition for nutrients and water. Apply balanced fertilizers based on soil test results to meet the nutrient requirements of ladyfinger. Side-dressing with nitrogen can be beneficial during the growing season to promote healthy plant growth.",
+
+        "Timing_of_Harvest":"Ladyfinger pods are ready for harvest about 50-60 days after sowing, depending on the variety and growing conditions. Harvest the pods when they are tender and about 3-4 inches long. Use a sharp knife or pruning shears to cut the pods from the plant to avoid damaging the stems.",
+
+        "Post_Harvest_Management": "After harvesting, sort the ladyfinger pods based on size and quality. Remove any damaged or overripe pods. Store the harvested pods in a cool, dry place with good ventilation to maintain freshness. Ladyfinger is best consumed fresh but can also be stored in the refrigerator for a few days. Regularly inspect stored pods for signs of spoilage and use them promptly."
+      },
+      {
+        "id": 7,
+        "nitrogen": [135,200],
+        "phosphorous": [67,134],
+        "potassium": [270,400],
+        "crop":"Banana",
+        "video_link":"https://www.youtube.com/watch?v=z2bIO8L8FcU",
+        "Soil_Preparation":"Bananas thrive in well-drained, fertile soil with good organic content. Prepare the soil by plowing or tilling to a depth of about 12-18 inches to ensure good root penetration. Incorporate well-rotted farmyard manure or compost to enrich the soil. Bananas prefer a slightly acidic to neutral soil pH (pH 6.0-7.0). Ensure the soil has good water-holding capacity while maintaining adequate drainage.",
+
+        "Sowing_Technique":"Bananas are propagated through suckers or tissue-cultured plantlets rather than seeds. Select healthy suckers from mature banana plants or procure tissue-cultured plantlets from a reliable source. Plant the suckers or plantlets in pits or trenches filled with organic matter. Space the plants about 6-8 feet apart in rows for optimum growth and air circulation.",
+
+        "Irrigation_Techniques":"Bananas require regular and consistent irrigation throughout the year, especially during dry periods. Use drip irrigation or basin irrigation to deliver water directly to the root zone and minimize water loss. Irrigate the plants deeply but infrequently to encourage deep root development. Monitor soil moisture levels and adjust irrigation frequency based on weather conditions.",
+
+        "Post_Irrigation_Management":"After irrigation, monitor the banana plants for weed growth and remove weeds regularly to reduce competition for nutrients and water. Apply balanced fertilizers containing nitrogen, phosphorus, and potassium based on soil test results and crop requirements. Implement mulching to conserve soil moisture and suppress weed growth.",
+
+        "Timing_of_Harvest":"Bananas are harvested when the fruits reach maturity, indicated by their size, color, and firmness. Harvest timing varies depending on the banana variety and local growing conditions. Harvest bunches when the fruits are fully developed but still firm. Use a sharp knife to cut the bunches from the plant.",
+
+        "Post_Harvest_Management": " After harvesting, handle bananas with care to prevent damage and bruising. Transport the harvested bunches to a shaded area for sorting and grading based on size and quality. Pack the bananas in ventilated crates or baskets to allow air circulation. Store the harvested bananas in a cool, well-ventilated place to prolong shelf life."
+      },
+      {
+        "id": 8,
+        "nitrogen": [56,112],
+        "phosphorous": [34,67],
+        "potassium": [56,112],
+        "crop":"Kidney-Beans",
+        "video_link":"https://www.youtube.com/watch?v=HpiPrkqHbYE",
+        "Soil_Preparation":"To grow rajma (kidney beans) successfully in India, it's crucial to start with proper soil preparation. Begin by selecting well-drained loamy soil with a slightly acidic to neutral pH level (pH 6.0-7.0). Plow or till the soil to a depth of 6-8 inches to improve aeration and loosen the soil. Incorporate well-rotted farmyard manure or compost during soil preparation to enhance soil fertility and water retention. Conduct a soil test to determine nutrient levels and apply balanced fertilizers containing nitrogen, phosphorus, and potassium as needed before planting.",
+
+        "Sowing_Technique":" For sowing rajma seeds, choose a suitable time after the last frost date when the soil has warmed up in late spring or early summer. Plant the seeds in rows with spacing of 30-45 cm between rows and 8-10 cm between individual plants, sowing them at a depth of about 3-4 cm in moist soil.",
+
+        "Irrigation_Techniques":"Rajma requires regular irrigation, especially during flowering and pod formation stages. Provide sufficient water immediately after sowing to ensure good seed germination. Use drip irrigation or furrow irrigation to deliver water directly to the root zone and conserve water.",
+
+        "Post_Irrigation_Management":"After irrigation, manage the crop by removing weeds regularly to minimize competition for nutrients and water. Apply nitrogen-based fertilizers during flowering and pod development stages to support healthy growth and yield. Monitor for common pests and diseases like aphids, powdery mildew, and rust, and take appropriate measures for control if necessary.",
+
+        "Timing_of_Harvest":"Harvest rajma pods when they are fully mature and dry on the plant, typically 90-120 days after sowing depending on the variety and growing conditions. Hand-pick the mature pods carefully to avoid damaging the plants.",
+
+        "Post_Harvest_Management": "Post-harvest, allow the harvested rajma pods to further dry in a well-ventilated area for a few days. Shell the dried pods to separate the beans from the pods, and store the dried rajma beans in a cool, dry place in airtight containers to maintain quality and prevent pest infestation. Regular monitoring and timely interventions for weed control, irrigation, and nutrient management are essential for successful rajma cultivation in India."
+      },
+      {
+        "id": 9,
+        "nitrogen": [45,90],
+        "phosphorous": [34,67],
+        "potassium": [45,90],
+        "crop":"Chick-pea(chana)",
+        "video_link":"https://www.youtube.com/watch?v=AnspJeJDDgs",
+        "Soil_Preparation":"Start by selecting well-drained sandy loam or loam soil with good fertility and a pH range of 6.0-7.0. Plow the field to a depth of 6-8 inches to ensure proper aeration and root penetration. Incorporate well-decomposed farmyard manure or compost to improve soil fertility and structure. Conduct a soil test to determine nutrient levels and apply recommended fertilizers like phosphorus and potassium before planting.",
+
+        "Sowing_Technique":"Choose a suitable time for sowing chickpea seeds, typically in late October to November for the rabi season in India. Use seeds treated with fungicides to prevent seed-borne diseases. Sow the seeds at a depth of 3-5 cm with a row-to-row spacing of 30-45 cm and plant-to-plant spacing of 10-15 cm. Ensure good seed-soil contact for uniform germination.",
+
+        "Irrigation_Techniques":"Provide irrigation immediately after sowing to facilitate germination. Chickpeas require moderate water, with irrigation intervals of 7-10 days during the vegetative stage and 15-20 days during the flowering and pod formation stages. Use techniques like furrow irrigation or drip irrigation to deliver water efficiently to the root zone and conserve water.",
+
+        "Post_Irrigation_Management":"Monitor the crop for weed growth and remove weeds manually or use appropriate herbicides. Apply nitrogenous fertilizers during the vegetative stage and phosphorus during flowering to support plant growth and yield. Monitor for pests and diseases like pod borers, aphids, and ascochyta blight, and take timely measures for control.",
+
+        "Timing_of_Harvest":"Harvest chickpeas when pods turn brown and dry on the plant, typically 100-120 days after sowing. Use hand tools or mechanical harvesters to avoid pod shattering.",
+
+        "Post_Harvest_Management": "After harvesting, dry the chickpea pods in the sun and thresh to separate the seeds. Store the dried seeds in moisture-proof containers in a cool, dry place to prevent spoilage and insect infestation."
+      },
+      {
+        "id": 10,
+        "nitrogen": [45,67],
+        "phosphorous": [22,45],
+        "potassium": [22,45],
+        "crop":"black-gram",
+        "video_link":"https://www.youtube.com/watch?v=Q33rH3i891M",
+        "Soil_Preparation":"Choose well-drained loamy or sandy loam soil with a pH range of 6.0-7.5. Begin soil preparation by plowing the field to a depth of 6-8 inches to improve soil aeration and root penetration. Incorporate well-decomposed organic matter like farmyard manure or compost to enhance soil fertility and structure. Conduct a soil test to assess nutrient levels and apply fertilizers accordingly.",
+
+        "Sowing_Technique":"Select the appropriate time for sowing black gram, typically during the kharif season in India from June to July. Use high-quality seeds free from pests and diseases. Sow the seeds at a depth of 2-3 cm with a row-to-row spacing of 30-45 cm and a plant-to-plant spacing of 5-10 cm. Ensure uniform seed placement and good seed-soil contact for better germination.",
+
+        "Irrigation_Techniques":" Provide the initial irrigation immediately after sowing to facilitate germination. Black gram requires moderate water during the vegetative and flowering stages, with irrigation intervals of 7-10 days depending on soil moisture. Use methods like furrow irrigation or drip irrigation to optimize water use efficiency and reduce water wastage.",
+
+        "Post_Irrigation_Management":"Monitor the crop regularly for weed infestation and control weeds manually or with appropriate herbicides to reduce competition for nutrients and water. Apply nitrogenous fertilizers during the vegetative stage and phosphorus during flowering to support plant growth and pod formation. Scout for pests like pod borers and aphids and implement integrated pest management practices.",
+
+        "Timing_of_Harvest":"Harvest black gram when the pods turn yellowish-brown and the seeds become firm, typically 90-100 days after sowing. Use sickles or mechanical harvesters to cut the plants close to the ground level.",
+
+        "Post_Harvest_Management": "After harvesting, thresh the pods to separate the seeds. Sun-dry the seeds to reduce moisture content and prevent fungal growth. Store the dried seeds in moisture-proof containers in a cool, dry place to maintain seed quality and prevent insect infestation."
+      },
+      {
+        "id": 11,
+        "nitrogen": [100,150],
+        "phosphorous": [50,100],
+        "potassium": [50,100],
+        "crop":"SugarCane",
+        "video_link":"https://www.youtube.com/watch?v=kNt11njEsgc",
+        "Soil_Preparation":"To prepare the soil for sugarcane cultivation, begin by selecting a well-drained area with adequate sunlight. Clear the land of weeds, rocks, and debris to create a clean seedbed. Plow the soil deeply to break up large clods and improve soil structure, followed by harrowing to create a finer seedbed. Create raised beds or ridges to improve drainage and prevent waterlogging. Based on soil test results, apply necessary soil amendments such as lime to adjust pH and organic matter to enhance fertility and soil structure. Apply balanced fertilizers containing nitrogen, phosphorus, and potassium before planting, ensuring even distribution across the bed. Apply pre-emergence herbicides to control weeds, and plant sugarcane setts or seed pieces in rows on the prepared beds at the appropriate spacing and depth. Provide irrigation as needed to maintain soil moisture, and monitor for weed emergence, implementing control measures as necessary. Throughout the growing season, continue with proper crop maintenance practices such as nutrient management, pest and disease control, and irrigation management to ensure healthy sugarcane growth and maximize yields.",
+
+        "Sowing_Technique":"The sowing technique for sugarcane involves several steps to ensure proper planting and establishment of the crop. First, select healthy and disease-free sugarcane setts or seed pieces from a reliable source. Before planting, treat the setts with fungicides to prevent soil-borne diseases. Then, prepare the planting furrows or rows on the previously prepared beds, ensuring proper spacing between rows to allow for adequate plant growth and machinery access. Plant the sugarcane setts horizontally in the furrows or trenches, ensuring that each sett is placed with the bud facing upwards for optimal sprouting. Cover the setts with soil to the desired depth, typically around 2 to 4 inches, ensuring good seed-to-soil contact. After planting, irrigate the field immediately to provide moisture for germination and early growth. Monitor the crop regularly for emergence and adjust irrigation practices as needed to maintain soil moisture levels. Additionally, implement weed control measures to minimize competition and optimize sugarcane growth. Proper sowing techniques combined with appropriate crop management practices contribute to successful sugarcane establishment and subsequent yield.",
+
+        "Irrigation_Techniques":" Sugarcane requires a significant amount of water throughout its growth cycle. On average, it needs about 1500-2500 millimeters of water during the entire growing season.The timing and frequency of irrigation depend on various factors such as soil moisture levels, weather conditions, and crop growth stage. Generally, sugarcane requires regular and consistent watering, especially during the critical growth stages such as germination, tillering, grand growth, and maturation.The quality of irrigation water can significantly impact sugarcane growth and yield. Sugarcane is sensitive to salinity and waterlogged conditions, so using good quality water with low salinity levels is essential.",
+
+        "Post_Irrigation_Management":"Post-irrigation management is crucial for maximizing the effectiveness of water application and ensuring optimal growth and yield in sugarcane cultivation. After irrigation, it's essential to monitor soil moisture levels regularly to avoid overwatering or underwatering, which can negatively impact plant health and productivity. Proper drainage is also vital to prevent waterlogging, which can lead to root rot and other diseases. Additionally, post-irrigation activities may include applying fertilizers or soil amendments to replenish nutrients lost during watering and promote healthy growth. Monitoring for signs of pests and diseases is also important, as excess moisture can create favorable conditions for their development. By implementing careful post-irrigation management practices, sugarcane growers can maintain a healthy growing environment and optimize their crop yield.",
+
+        "Timing_of_Harvest":"The timing for harvesting sugarcane depends on various factors such as climate, soil conditions, and the variety of sugarcane being cultivated. Generally, sugarcane is harvested when it reaches maturity, which typically occurs between 12 to 18 months after planting. In tropical regions where sugarcane is commonly grown, harvesting often takes place during the dry season to minimize moisture content in the stalks, making them easier to process. Harvesting too early can result in lower sugar content, while delaying harvest can lead to decreased sucrose yield and increased vulnerability to pests and diseases. Therefore, timing is crucial to ensure optimal yield and quality of sugarcane crops.",
+
+        "Post_Harvest_Management": "Post-harvest management for sugarcane involves several critical steps to preserve the quality of the crop and maximize its value. After harvesting, sugarcane stalks are typically transported to processing mills for juice extraction. However, proper post-harvest handling is essential to minimize losses and maintain sugar content. This includes timely transportation to the mill to prevent deterioration, careful handling to avoid physical damage, and storage in shaded areas to prevent exposure to direct sunlight and moisture. Additionally, farmers may opt to apply treatments such as wax coatings or fungicides to prevent spoilage and extend shelf life during storage. Efficient transportation and processing methods are also crucial for minimizing post-harvest losses and ensuring the highest possible returns for sugarcane growers. Furthermore, by-products such as bagasse (the fibrous residue left after juice extraction) can be utilized for various purposes such as biofuel production or animal feed, contributing to the overall sustainability and economic viability of sugarcane cultivation."
+      },
+      {
+        "id": 12,
+        "nitrogen": [0,50],
+        "phosphorous": [30,60],
+        "potassium": [30,60],
+        "crop":"Soybean",
+        "video_link":"https://www.youtube.com/watch?v=9ieoAlmomR0",
+        "Soil_Preparation":"Soil preparation for soybean cultivation is a vital step in ensuring optimal growth and yield. It begins with soil testing to determine its pH level, nutrient content, and physical properties. Based on the results, farmers may need to amend the soil with fertilizers or organic matter to provide adequate nutrients for soybean plants. Deep tillage or plowing is often performed to loosen the soil and improve aeration, drainage, and root penetration. However, conservation tillage practices, such as no-till or reduced tillage, are increasingly being adopted to minimize soil erosion and preserve soil structure and organic matter. Prior to planting, weed control is essential to reduce competition for nutrients, water, and sunlight. This may involve pre-emergent herbicide applications or mechanical methods like cultivation. Overall, proper soil preparation sets the foundation for successful soybean cultivation by creating a favorable environment for seed germination, root development, and plant growth.",
+
+        "Sowing_Technique":"Soybean sowing techniques play a crucial role in ensuring successful establishment and optimal yield of the crop. The choice of sowing method depends on factors such as soil type, climate, and farming practices. Traditionally, soybeans are sown using either broadcasting or row planting methods. Broadcasting involves scattering the seeds evenly over the field surface, followed by light incorporation into the soil through harrowing or rolling. This method is simple and requires minimal equipment but may result in uneven plant spacing and competition. Row planting, on the other hand, involves sowing seeds in spaced rows using a seed drill or planter. This method allows for precise seed placement, uniform plant spacing, and easier weed control. Additionally, row planting facilitates inter-row cultivation and other agronomic practices. Regardless of the sowing method chosen, optimal seeding depth is critical for germination and early growth. Soybean seeds are typically planted at a depth of 1 to 2 inches, depending on soil moisture and texture. Adequate soil moisture is essential during sowing to promote seed germination and establishment. Overall, selecting the appropriate sowing technique and ensuring proper seeding depth and soil moisture are key factors in maximizing soybean yield and profitability.",
+
+        "Irrigation_Techniques":" Irrigation plays a significant role in soybean cultivation, especially in areas where rainfall is insufficient or erratic. The choice of irrigation technique depends on factors such as soil type, climate, water availability, and farm infrastructure. Common irrigation methods for soybeans include surface irrigation, sprinkler irrigation, and drip irrigation. Surface irrigation involves flooding or furrow irrigation, where water is applied directly to the soil surface or through shallow channels between rows. While relatively simple and cost-effective, surface irrigation can lead to water wastage through evaporation and runoff, and may not provide uniform water distribution. Sprinkler irrigation, on the other hand, delivers water through overhead sprinklers, mimicking natural rainfall. This method provides better water distribution and allows for precise control of water application, but it can be more expensive to install and operate, especially in windy conditions. Drip irrigation is another efficient technique where water is delivered directly to the root zone through a network of drip lines or emitters. Drip irrigation minimizes water loss through evaporation and runoff and allows for precise control of soil moisture, making it ideal for water-saving and precision agriculture practices. Regardless of the irrigation method chosen, proper scheduling and management are essential to ensure that soybean plants receive the right amount of water at the right time to promote healthy growth, flowering, and pod development, ultimately maximizing yield potential and profitability.",
+
+        "Post_Irrigation_Management":"Post-irrigation management for soybean involves several key practices aimed at maximizing water use efficiency, promoting plant growth, and optimizing yield. After irrigation, it is essential to monitor soil moisture levels to ensure that the water applied adequately penetrates the root zone and does not lead to waterlogging or drought stress. Adequate drainage is crucial to prevent waterlogging, which can inhibit root growth and lead to nutrient leaching. Additionally, post-irrigation weed management is necessary to minimize competition for water and nutrients. This may involve mechanical methods such as hoeing or cultivation, as well as the application of herbicides.",
+
+        "Timing_of_Harvest":"The timing of soybean harvest is a critical factor that can significantly impact yield and quality. Harvesting soybeans at the right stage of maturity ensures maximum seed yield and optimal grain quality. Typically, soybeans are harvested when they reach physiological maturity, which occurs when the beans have filled out and the plants have turned yellow or brown and started to naturally senesce. This stage is characterized by full seed development and maximum seed weight, indicating peak seed quality and yield potential. However, harvesting too early can result in reduced yield and lower seed quality, as immature seeds may not have reached their full size or oil content. On the other hand, delaying harvest can lead to shattering and seed loss, particularly in varieties with indeterminate growth habits. ",
+
+        "Post_Harvest_Management": "After harvesting, thresh the pods to separate the seeds. Sun-dry the seeds to reduce moisture content and prevent fungal growth. Store the dried seeds in moisture-proof containers in a cool, dry place to maintain seed quality and prevent insect infestation."
+      },
+      {
+        "id": 13,
+        "nitrogen": [40,60],
+        "phosphorous": [30,50],
+        "potassium": [20,50],
+        "crop":"Mustard",
+        "video_link":"https://www.youtube.com/watch?v=IIaKeIuh2-U",
+        "Soil_Preparation":"Choose well-drained loamy or sandy loam soil with a pH range of 6.0-7.5. Begin soil preparation by plowing the field to a depth of 6-8 inches to improve soil aeration and root penetration. Incorporate well-decomposed organic matter like farmyard manure or compost to enhance soil fertility and structure. Conduct a soil test to assess nutrient levels and apply fertilizers accordingly.",
+
+        "Sowing_Technique":"Select the appropriate time for sowing black gram, typically during the kharif season in India from June to July. Use high-quality seeds free from pests and diseases. Sow the seeds at a depth of 2-3 cm with a row-to-row spacing of 30-45 cm and a plant-to-plant spacing of 5-10 cm. Ensure uniform seed placement and good seed-soil contact for better germination.",
+
+        "Irrigation_Techniques":" Provide the initial irrigation immediately after sowing to facilitate germination. Black gram requires moderate water during the vegetative and flowering stages, with irrigation intervals of 7-10 days depending on soil moisture. Use methods like furrow irrigation or drip irrigation to optimize water use efficiency and reduce water wastage.",
+
+        "Post_Irrigation_Management":"Monitor the crop regularly for weed infestation and control weeds manually or with appropriate herbicides to reduce competition for nutrients and water. Apply nitrogenous fertilizers during the vegetative stage and phosphorus during flowering to support plant growth and pod formation. Scout for pests like pod borers and aphids and implement integrated pest management practices.",
+
+        "Timing_of_Harvest":"Harvest black gram when the pods turn yellowish-brown and the seeds become firm, typically 90-100 days after sowing. Use sickles or mechanical harvesters to cut the plants close to the ground level.",
+
+        "Post_Harvest_Management": "After harvesting, thresh the pods to separate the seeds. Sun-dry the seeds to reduce moisture content and prevent fungal growth. Store the dried seeds in moisture-proof containers in a cool, dry place to maintain seed quality and prevent insect infestation."
+      }
+    ]
+  }

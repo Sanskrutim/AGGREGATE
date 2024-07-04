@@ -1,0 +1,38 @@
+.cd{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 20px;
+    
+    
+}
+.card{
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 85px;
+    box-shadow: rgba(0, 0, 0, 0.3) 10px 19px 38px, rgba(0, 0, 0, 0.22) 10px 19px 12px;
+    border-radius: 10px;    
+}
+.card:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.card-body{
+    text-align: center;
+}
+.btns{
+    background-color: rgb(194, 65, 12);
+    
+    color: white;
+    border-radius: 5px;
+    height: 25px;
+    width: 70px;
+    margin-top: 5px;
+    align-items: last baseline;
+    border: none;
+}
+.btns:hover{
+    transform: scale(1.1);
+    opacity: 0.8;
+    color: black;
+}

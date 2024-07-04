@@ -1,0 +1,100 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Tractor",
+            "image": "https://media.istockphoto.com/id/491151340/photo/tractor-on-the-field.jpg?s=1024x1024&w=is&k=20&c=oOnIey9ftQpeafOhTqd7HigM9JEnLsnJZZpy3WhrLaE=",
+            "Description": "A tractor is a vehicle that's used on a farm or work site, often to pull a trailer or other equipment. A farmer might use a tractor to pull a plow through her corn field before planting.",
+            "Price": 400000,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 2,
+            "name": "Cultivator",
+            "image": "https://media.istockphoto.com/id/494414082/photo/cultivator.jpg?s=1024x1024&w=is&k=20&c=MHFVHtiEA9QYvgf5NJMRqhyVyges5lxCjqnsD77kZmk=",
+            "Description": "A cultivator is a piece of agricultural equipment used for secondary tillage. One sense of the name refers to frames with teeth that pierce the soil as they are dragged through it linearly.",
+            "Price": 40000,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 3,
+            "name": "Thresher",
+            "image": "https://media.istockphoto.com/id/166308616/photo/combine-harvester-and-tractor-in-barley-field-during-harvest.jpg?s=1024x1024&w=is&k=20&c=ezcRQTDzYS0rFuGZHZ2M6ZpxTe9O1o37WTJSZktCI9A=",
+            "Description": "Thresher, farm machine for separating wheat, peas, soybeans, and other small grain and seed crops from their chaff and straw.",
+            "Price": 250000,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 4,
+            "name": "Harrow",
+            "image": "https://media.istockphoto.com/id/494414972/photo/rusty-harrow.jpg?s=1024x1024&w=is&k=20&c=cTsbMOp9kZppetiABV3GxCBmh9UsfU8JIW4mH9tc3fQ=",
+            "Description": "A harrow is a piece of farm equipment consisting of a row of blades fixed to a heavy frame. When it is pulled over ploughed land, the blades break up large lumps of soil.",
+            "Price": 50000,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 5,
+            "name": "Trolly",
+            "image": "https://media.istockphoto.com/id/654994012/photo/tractor-with-trolley-in-the-country-road.jpg?s=1024x1024&w=is&k=20&c=_CuQxjVjg0RcyCrSkZKIRd087DTkJRM9Av5Sp8ZBsuw=",
+            "Description": "This trolley is widely used for moving material from one place to another with an ease. It is strictly checked on different quality parameters assuring its flawlessness at user's end.",
+            "Price": 125000,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 6,
+            "name": "Hand sickle",
+            "image": "https://fmexim.com/images/asset-agri-tools-sickle.jpg",
+            "Description": "A sickle is a hand-held agricultural tool with a variously curved blade typically used for harvesting grain crops or cutting succulent forage chiefly for feeding livestock",
+            "Price": 200,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 7,
+            "name": "Showel and spade",
+            "image": "https://fmexim.com/images/asset-agri-tools-shovel.jpg",
+            "Description": "A shovel is a tool for digging, lifting, and moving bulk materials, such as soil, coal, gravel, snow, sand, or ore.",
+            "Price": 2000,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 8,
+            "name": "Axe",
+            "image": "https://fmexim.com/images/asset-agri-tools-axe.jpg",
+            "Description": "Axe and our other agricultural tools are manufactured and designed using finest quality material and are commended for their perfect finish.",
+            "Price": 2000,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 9,
+            "name": "Axe",
+            "image": "https://fmexim.com/images/asset-agri-tools-hoe.jpg",
+            "Description": "A hoe is an ancient and versatile agricultural hand tool used to shape the soil, control weeds, clear soil, and harvest root crops.",
+            "Price": 2000,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 10,
+            "name": "PickAxe",
+            "image": "https://fmexim.com/images/asset-agri-tools-pickaxe.jpg",
+            "Description": "A pickaxe or pick is a hand tool with a hard head attached perpendicular to the handle. They are used as tools for landscaping, breaking up hard surfaces and as farming implements.",
+            "Price": 2000,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 11,
+            "name": "Sprayer",
+            "image": "https://media.istockphoto.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=1024x1024&w=is&k=20&c=yPCuFHWqE_mzwYIgKGqz5S3SpFs9N8QdUJxo1R98rYQ=",
+            "Description": "An agricultural crop sprayer is the equipment used for applying liquid substances to plants or crops. These substances could be fertilisers, herbicides, or pesticides",
+            "Price": 3000,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 12,
+            "name": "Sprinkler",
+            "image": "https://media.istockphoto.com/id/638155104/photo/water-sprinklers.jpg?s=1024x1024&w=is&k=20&c=wlJ-GvffYrF_VOnOLLYgeVSTctZoP6gt1n7PMx_y5_8=",
+            "Description": "Sprinkler irrigation is a method of applying irrigation water which is similar to natural rainfall. Water is distributed through a system of pipes usually by pumping.",
+            "Price": 3000,
+            "Link": "https://jhbshcb"
+        }
+    ]
+}

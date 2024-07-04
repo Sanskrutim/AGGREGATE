@@ -1,0 +1,100 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "IFFCO Nano Urea Liquid Fertilizer",
+            "image": "https://badikheti-production.s3.ap-south-1.amazonaws.com/products/20240206160105150324412.jpg",
+            "Description": "IFFCO Nano Urea is a nanotechnology-based revolutionary Agri-input that provides nitrogen to plants. Nano Urea is a sustainable option for farmers towards smart agriculture and combat climate change. These fulfill the plant nutrient requirement as a fertilizer since Nano urea is bio-available to plants because of its desirable particle size of about 20-50 nm and more surface area",
+            "Price": 420,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 2,
+            "name": "NPK 13:40:13 Water Soluble Fertlilizer (For All Plants and Gardens)",
+            "image": "https://badikheti-production.s3.ap-south-1.amazonaws.com/products/20231209143607929677399.jpeg",
+            "Description": "NPK (13:40:13) contains nitrogen in different forms needed gradually at different growth stages of crops & is useful specially for healthy vegetative growth of plants. NPK (13:40:13) contains phosphorous (P) & potash (K) in 100 % soluble form is useful specially for healthy flowering & fruiting stage of plants.",
+            "Price": 200,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 3,
+            "name": "GROMOR 13:00:45 Potassium Nitrate Fertilizer",
+            "image": "https://badikheti-production.s3.ap-south-1.amazonaws.com/products/20240208124305596465734.jpg",
+            "Description": "Contains 13% Nitrate Nitrogen and 45% Potassium Nitrate. High solubility, high purity, free-flowing, and low salt index. Virtually free of Chloride, Sodium, and other elements detrimental to plants. Easy and safe to use.",
+            "Price": 500,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 4,
+            "name": "Turbo Zinc Nutrixon (ZnB Zinc + Boron) Chemical Fertilizer",
+            "image": "https://badikheti-production.s3.ap-south-1.amazonaws.com/products/202205241745301385650470.jpg",
+            "Description": "Technical: Zinc and Boron Target Crops: All the Field and Horticulture Crops Mode of Action: It can be absorbed by root and leaves",
+            "Price": 430,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 5,
+            "name": "Neem Cake (Organic Fungicide)            ",
+            "image": "https://samsgardenstore.com/wp-content/uploads/2019/02/Neem-Cake-Organic-Fungicide1.webp",
+            "Description": "Neem Cake Powder provides the plant with all the necessary nutrients and also helps control pests. Neem cake powder lasts longer and also retains water to keep the soil in good condition. It is a great natural fertilizer and is preferred by many farmers and gardeners because of its benefits.",
+            "Price": 200,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 6,
+            "name": "Vermicompost – 5kg (Organic Fertilizer)            ",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://samsgardenstore.com/wp-content/uploads/2019/02/Vermicompost-%E2%80%93-5kg-Organic-Fertilizer1.webp",
+            "Description": "Vermicomposting is the process by which worms are used to convert organic materials (Animal Dung) into a humus-like material known as Vermin-Compost. It has a natural complex of fertilizing organic compounds, micro, and macro elements, and micro-organisms help plans to grow big, healthy, and fast",
+            "Price": 349,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 7,
+            "name": "Castor Cake Fertilizer (Organic Fertilizer)            ",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://samsgardenstore.com/wp-content/uploads/2022/03/Castor-Cake-Fertilizer-Organic-Fertilizer.webp",
+            "Description": "Castor Cake is a natural nitrogen fertilizer. It is a simple manure, which acts progressively that encourages soil microbial activity. It has insecticidal properties and naturally pest repellent. It is can be used in organic farming & fits for any type of soil, with its high content of organic matter.",
+            "Price": 160,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 8,
+            "name": "Blue Sticky Traps – Stick-a-Fly – For Insects (Pack of 3)            ",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://samsgardenstore.com/wp-content/uploads/2022/12/Blue-Sticky-Traps-%E2%80%93-Stick-a-Fly-%E2%80%93-For-Insects-Pack-of-3.webp",
+            "Description": "It controls a range of insect pests, including White fly, Leaf Miners and Greenfly in the greenhouse or conservatory. The trap is coated with dry glue, which is highly effective in catching insects, but does not adhere to hands or clothing. Each side of the trap is protected with a sheet of cover paper.",
+            "Price": 149,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 9,
+            "name": "Desi Cow Manure 3KG (Organic Fertilizer)            ",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://samsgardenstore.com/wp-content/uploads/2022/03/Desi-Cow-Manure-3KG-Organic-Fertilizer.webp",
+            "Description": "Desi Cow Manure is rich in N-P-K value and contains important micro-organisms that help in improving soil health and plant growth. This compost manure has several benefits in the plantation or farming. Desi Compost cow manure adds a good amount of organic mass into the soil.",
+            "Price": 299,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 10,
+            "name": "Rhizo Power (Nitrozen – Rhizobium Bact)            ",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://samsgardenstore.com/wp-content/uploads/2022/06/Rhizo-Power-Nitrozen-%E2%80%93-Rhizobium-Bact.webp",
+            "Description": "Rhizo Power (Nitrozen – Rhizobium Bact)            ",
+            "Price": 199,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 11,
+            "name": "B.B. Power ( Organic Insect Control Beauvaria Bassiana)            ",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://samsgardenstore.com/wp-content/uploads/2023/05/B.B.-Power-Organic-Insect-Control-Beauvaria-Bassiana.webp",
+            "Description": "All farmers use pesticides, including organic farmers. Whether from synthetic or natural sources, pesticides are used by all farmers. The difference is organic farmers can only use pesticides from natural sources. But both synthetic and natural pesticides have various levels of toxicity.",
+            "Price": 290,
+            "Link": "https://jhbshcb"
+        },
+        {
+            "id": 12,
+            "name": "Mustard Cake 900 grm (Organic Fertilizers)            ",
+            "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://samsgardenstore.com/wp-content/uploads/2023/05/Mustard-Cake-900-grm-Organic-Fertilizers1.webp",
+            "Description": "The mustard cake is the residue leftover from commercial mustard oil or meal production. The mustard cake is widely used as a fertilizer for flowering and vegetable plants. Mustard oil cake fertilizer is very rich in protein. It provides many micronutrients to your garden plants",
+            "Price": 160,
+            "Link": "https://jhbshcb"
+        }
+    ]
+}

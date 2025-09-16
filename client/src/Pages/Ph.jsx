@@ -11,7 +11,7 @@ const Ph = () => {
   const [filteredData, setFilteredData] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:3001/pH')
+    fetch('https://ph-api-qnl4.onrender.com/pH')
       .then(response => response.json())
       .then(Data => {
         setData(Data)

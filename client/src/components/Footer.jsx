@@ -93,7 +93,7 @@ const Footer = () => {
               </p>
               <p>
                 <MDBIcon icon="envelope" className="me-3" />
-                sanskrutimansoriya.com
+                sanskrutimansoriya4094@gmail.com
               </p>
               <p>
                 <MDBIcon icon="phone" className="me-3" /> + 91 958 995 1665

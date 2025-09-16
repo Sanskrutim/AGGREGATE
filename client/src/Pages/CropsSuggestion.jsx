@@ -16,7 +16,7 @@ const CropsSuggestion = () => {
 
 
   useEffect(() => {
-    fetch('http://localhost:3000/farms')
+    fetch('https://cropsuggestion-api.onrender.com/farms')
       .then(response => response.json())
       .then(Data => {
         setData(Data)

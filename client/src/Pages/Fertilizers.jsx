@@ -6,7 +6,7 @@ const Fertilizers = () => {
     const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:3032/users')
+    fetch('https://fertilizer-api-1-uyww.onrender.com/users')
       .then(response => response.json())
       .then(data => setData(data))
       .catch(error => console.log(error));

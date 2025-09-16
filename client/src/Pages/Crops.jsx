@@ -5,7 +5,7 @@ const Crops = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:3033/users')
+    fetch('https://tools-api-lrwq.onrender.com/users')
       .then(response => response.json())
       .then(data => setData(data))
       .catch(error => console.log(error));
